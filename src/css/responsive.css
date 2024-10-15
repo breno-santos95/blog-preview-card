@@ -1,0 +1,25 @@
+@media (max-width: 322px){
+
+    .main-container{
+        margin-top: 1.5rem;        
+    }
+    .main-container .card{
+        width: 28.5rem;
+        height: 48rem;
+        padding: 1.8rem;
+        gap: 1.5rem;
+        justify-content: space-evenly;        
+    }
+
+    .main-container .card .text-box a h2{
+        font-size: 2.1rem;
+    }
+
+    .main-container .card .text-box .description{
+      font-size: 1.3rem;  
+    }
+
+    footer{
+        margin: 3rem auto;
+    }
+}
